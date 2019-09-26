@@ -21,7 +21,7 @@
 
 /* Dropdown Button */
 .dropbtn {
-    background-color: #grey;
+    background-color: whitesmoke;
     color: grey;
     padding: 12px;
     font-size: 16px;
@@ -61,8 +61,13 @@
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
-.cart {
+.cart{
 text-align: right;
+
+}
+
+.carticon {
+display: inline-block;
 }
 
 .iPhone11Pro{
@@ -156,3 +161,7 @@ color: white;
     color: blue;
   }
  
+  .container{
+    max-width: 50rem;
+    margin: 0. auto
+  }
