@@ -68,6 +68,8 @@ text-align: right;
 
 .carticon {
 display: inline-block;
+background-color: transparent;
+border: none;
 }
 
 .iPhone11Pro{
