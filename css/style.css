@@ -65,13 +65,13 @@ font-family: 'Roboto', sans-serif;
 
 .cart{
 text-align: right;
-
 }
 
 .carticon {
 display: inline-block;
 background-color: transparent;
 border: none;
+padding: 0rem, 4rem, 0rem, 0rem;
 }
 
 .iPhone11Pro{
